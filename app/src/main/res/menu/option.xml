@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/past" android:title="Geçmiş">
+
+    </item>
+
+    <item android:id="@+id/amount" android:title="Hesabım">
+
+    </item>
+    <item android:id="@+id/exit" android:title="Çıkış">
+
+    </item>
+
+
+</menu>

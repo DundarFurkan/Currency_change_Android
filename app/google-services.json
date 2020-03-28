@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "322033113855",
+    "firebase_url": "https://currencychange-26a8c.firebaseio.com",
+    "project_id": "currencychange-26a8c",
+    "storage_bucket": "currencychange-26a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322033113855:android:7d860e63a7fe36e8",
+        "android_client_info": {
+          "package_name": "com.example.currencychange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322033113855-3dgn7bnmjm3q6iljmm3p70l782fbek6v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.currencychange",
+            "certificate_hash": "ded78150cb9bf426909bd76b4d524c1c73ed221f"
+          }
+        },
+        {
+          "client_id": "322033113855-i7u4fobqiomrn4aadfi6mo33ile51e12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.currencychange",
+            "certificate_hash": "4bf2114e75b95597c1fbc690118afc7306877f04"
+          }
+        },
+        {
+          "client_id": "322033113855-r576jiutub9fi38r4re1a8cuba2vd0bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasv1Qkfnq9_QAyNurRxymJdQS2dT_tnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322033113855-r576jiutub9fi38r4re1a8cuba2vd0bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
